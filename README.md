@@ -29,4 +29,4 @@ public class PrimitiveDatatypes
 
 
 ```
-![output]()
+![output](EXPERIMENT-1/1a.png)
