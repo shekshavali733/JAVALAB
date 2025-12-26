@@ -1,4 +1,4 @@
-```java
+
 public class PrimitiveDatatypes
 {
     byte b;
@@ -27,5 +27,3 @@ public class PrimitiveDatatypes
 
 
 
-```
-![output]()
