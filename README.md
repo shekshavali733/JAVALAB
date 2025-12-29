@@ -1,5 +1,5 @@
 # EXPERIMENT 1A
-## TITLE PRIMITIVE DATA TYPES
+##  PRIMITIVE DATA TYPES
 ```java
 public class PrimitiveDatatypes
 {
