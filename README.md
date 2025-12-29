@@ -16,7 +16,7 @@ public class PrimitiveDatatypes
         PrimitiveDatatypes obj=new PrimitiveDatatypes();
         System.out.println("defult value of byte:"+obj.b);
         System.out.println("defult value of short:"+obj.s);
-        System.out.println("defult value of int:"+obj.i);
+        System.out.println("defult value of int:"+obj.i); 
         System.out.println("defult value of double:"+obj.d);
         System.out.println("defult value of long:"+obj.l);
         System.out.println("defult value of float:"+obj.f);
