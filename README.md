@@ -83,4 +83,4 @@ System.out.println("Root 2="+real+"-i"+imaginary);
 ## OUTPUT:
 
 
-![output](
+![output](QuadraticEquation.png)
