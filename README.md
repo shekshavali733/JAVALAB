@@ -4,7 +4,7 @@
 public class PrimitiveDatatypes
 {
     byte b;
-    short s;
+    short s; 
     int i;
     double d;
     long l;
