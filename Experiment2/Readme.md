@@ -26,4 +26,4 @@ class OverloadExample{
 }
 
 ```
-![Output](https://github.com/shekshavali733/JAVALAB/blob/main/Experiment2)
+![Output](Experiment2/Overloading.png)
