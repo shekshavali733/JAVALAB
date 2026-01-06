@@ -84,7 +84,7 @@ System.out.println("Root 2="+real+"-i"+imaginary);
 
 
 ## 2a:
-'''java
+```java
 public class MainClass
 {
     public static void main(String[]args)
@@ -106,7 +106,11 @@ class MyClass
         return a+b;
     }
     }
-'''#output:
+```
+
+#output:
+
+
 ![output](Experiment2/MyClass.png)
 
 ## 2a:
