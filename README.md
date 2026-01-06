@@ -107,7 +107,7 @@ class MyClass
     }
     }
 '''#output:
-![output](
+![output](Experiment2/MyClass.png)
 
 ## 2a:
 ```java
