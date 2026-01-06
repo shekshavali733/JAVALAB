@@ -171,5 +171,5 @@ class OverloadExample{
 ```
 ##output:
 
-![output](
+![output](Experiment2/student.png)
 
