@@ -77,6 +77,10 @@ System.out.println("Root 2="+real+"-i"+imaginary);
 
 
 ```
+##output:
+
+
+![output](EXPERIMENT-1/QuadraticEquation.png)
 
 
 
