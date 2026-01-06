@@ -84,6 +84,32 @@ System.out.println("Root 2="+real+"-i"+imaginary);
 
 
 ## 2a:
+'''java
+public class MainClass
+{
+    public static void main(String[]args)
+    {
+        MyClass obj = new MyClass();
+        obj.displayMessage();
+        int result = obj.add(10,20);
+        System.out.println("sum="+result);
+    }
+}
+class MyClass
+{
+    void displayMessage()
+    {
+        System.out.println("hello this is a method call");
+    }
+    int add(int a,int b)
+    {
+        return a+b;
+    }
+    }
+'''#output:
+![output](
+
+## 2a:
 ```java
 class OverloadExample{
     int add(int a, int b){
@@ -115,4 +141,7 @@ class OverloadExample{
 
 
 ![output](Experiment2/Overloading.png)
+
+
+
 
