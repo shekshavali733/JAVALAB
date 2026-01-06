@@ -83,7 +83,7 @@ System.out.println("Root 2="+real+"-i"+imaginary);
 ![output](EXPERIMENT-1/QuadraticEquation.png)
 
 
-##2a:
+## 2a:
 ```java
 class OverloadExample{
     int add(int a, int b){
